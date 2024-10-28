@@ -48,43 +48,6 @@ pip3 install -r requirements.txt
   
 4. Click http://127.0.0.1:5000/ (Press CTRL+C to quit)
 
-## Project Demo
-
-### Project Overview
-
-![s1](https://user-images.githubusercontent.com/76810003/160344080-c08e4f55-c656-4690-89a4-9bad2ba86d54.gif)
-
-### Live detection
-
-![s3 (2)](https://user-images.githubusercontent.com/76810003/160345542-bbbb6195-03a5-4432-913a-8cd39058e544.gif)
-
-
-### Detection using image
-![s2](https://user-images.githubusercontent.com/76810003/160344930-321ce7ba-83a7-4252-81a5-e4ba8dc99d7a.gif)
-
-
-
-
-## Author
-
-<table>
-<tr>
-<td>
-     <img src="https://avatars.githubusercontent.com/u/76810003?s=400&u=3de867a69316245acd6e93279367fc2a37a6dd14&v=4" width="180"/>
-     
-     Saifullah Rahimi
-
-<p align="center">
-<a href = "https://github.com/saifujasoor"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/saifullahrahimi/"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
-</p>
-</td>
-</tr> 
-  </table>
-
-
-
-
 <!-- Links -->
 
 [python-shield]: https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=for-the-badge
@@ -92,5 +55,3 @@ pip3 install -r requirements.txt
 [flask]: https://img.shields.io/badge/-Flask-black?logo=flask&logoColor=white&style=for-the-badge
 [html-shield]: https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white&style=for-the-badge
 [css-shield]: https://img.shields.io/badge/-CSS-2862E9?logo=css3&logoColor=white&style=for-the-badge
-[linkedin-shield]: https://img.shields.io/badge/-linkedin-0078B6?logo=linkedin&logoColor=white&style=for-the-badge
-[linkedin]:https://www.linkedin.com/in/saifullahrahimi/
